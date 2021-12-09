@@ -23,12 +23,7 @@ nav{
   /* autour des titres */
 
 }
-}
-nav .onglets{
-  display:flex;
-  flex-wrap:wrap;
-  margin-top: 5px;
-}
+
 
 /* Fin de la barre de navigation
 
