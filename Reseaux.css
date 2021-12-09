@@ -1,0 +1,47 @@
+/* Couleur lien
+<style type="text/css">
+a.type1 { color: white; }
+</style>	
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body{
+
+	
+}
+
+/* Barre de navigation */
+nav{
+  display:flex;
+  flex-wrap:wrap;
+  font-size: 30px;
+  text-decoration: none;
+  justify-content: space-between;
+  position:sticky;
+  top: 0;
+  background-color: #141414;
+  padding: 50px 0px;
+  /* autour des titres */
+
+}
+}
+nav .onglets{
+  display:flex;
+  flex-wrap:wrap;
+  margin-top: 5px;
+}
+
+/* Fin de la barre de navigation
+
+/* Pied de page */
+footer{
+  background-color: #1a1a1a;
+  padding: 25px 100px;
+  color:#828282;
+}
+footer .colonnes{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+/* Fin du pied de page */
+
